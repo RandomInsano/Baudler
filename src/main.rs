@@ -1,4 +1,4 @@
-// Delay sending data similarly to use a dial-up modem.
+// Delay sending data similarly to using a dial-up modem.
 
 use std::{
 	io,
